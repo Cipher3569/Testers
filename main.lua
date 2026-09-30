@@ -1,5 +1,5 @@
 local executorName = "none"
-
+-- if you're reading this, why???
 pcall(function()
     if type(getexecutorname) == "function" then
         local name = getexecutorname()
